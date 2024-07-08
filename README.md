@@ -12,20 +12,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 🚀 About Me
-
-I'm a student with a passion for creating innovative solutions using technology. Currently, I'm focusing on:
-
-- **Machine Learning**: Developing models for predictive analysis.
-- **Web Development**: Building dynamic web applications with Django and PHP.
-- **Mobile Development**: Creating cross-platform mobile apps using Flutter.
-
-## 🌱 What I'm Currently Learning
-
-- Advanced Machine Learning techniques
-- Enhancing my skills in Flutter for mobile development
-- Exploring more about back-end development with Django
-
 ## 📫 How to Reach Me
 
 - **Email**: [justcua2001@gmail.com](mailto:justcua2001@gmail.com)
