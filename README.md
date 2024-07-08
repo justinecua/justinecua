@@ -1,8 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hello👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=justinecua&style=flat-square&color=blue)
-
-Welcome to my GitHub profile! I'm passionate about technology and love working with various programming languages and frameworks. Here's a bit about me and my work.
 
 ## 🛠️ Technologies & Tools
 
@@ -30,7 +28,7 @@ I'm a student with a passion for creating innovative solutions using technology.
 
 ## 📫 How to Reach Me
 
-- **Email**: [your.email@example.com](mailto:justcua2001@gmail.com)
+- **Email**: [justcua2001@gmail.com](mailto:justcua2001@gmail.com)
 
 ## 📈 GitHub Stats
 
