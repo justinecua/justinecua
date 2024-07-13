@@ -1,6 +1,5 @@
 # Hello👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=justinecua&style=flat-square&color=blue)
 
 ## 🛠️ Technologies & Tools
 
