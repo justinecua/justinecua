@@ -1,6 +1,4 @@
-# My Tech Stack
-
-I work with a diverse set of technologies across full-stack development:
+# Tech Stack
 
 <div>
   <!-- Frontend -->
@@ -13,6 +11,9 @@ I work with a diverse set of technologies across full-stack development:
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket" />
   
+  <!-- DevOps & Containers -->
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  
   <!-- Languages -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -24,13 +25,6 @@ I work with a diverse set of technologies across full-stack development:
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-## Specializations
-
-- **Frontend**: React, Next.js with TypeScript, Redux state management
-- **Backend**: Django REST Framework, WebSocket implementations
-- **Mobile**: React Native cross-platform development
-- **Full-Stack**: Django + React/Next.js integrated solutions
-
 [![wakatime](https://wakatime.com/badge/user/ebcf6776-e872-4894-9983-5e13cdb46e2d.svg)](https://wakatime.com/@ebcf6776-e872-4894-9983-5e13cdb46e2d)
 
-Let's collaborate on interesting projects! Whether it's building responsive web apps with Next.js, creating real-time applications with WebSockets, or developing cross-platform mobile apps with React Native, I'm always excited to work on innovative solutions.
+Email me for projects
