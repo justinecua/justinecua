@@ -25,6 +25,14 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
+## Specializations
+
+- **Frontend**: React, Next.js with TypeScript, Redux state management
+- **Backend**: Django REST Framework, WebSocket implementations  
+- **DevOps**: Docker containerization and deployment
+- **Mobile**: React Native cross-platform development
+- **Full-Stack**: Dockerized Django + React/Next.js solutions
+  
 [![wakatime](https://wakatime.com/badge/user/ebcf6776-e872-4894-9983-5e13cdb46e2d.svg)](https://wakatime.com/@ebcf6776-e872-4894-9983-5e13cdb46e2d)
 
 Email me for projects
